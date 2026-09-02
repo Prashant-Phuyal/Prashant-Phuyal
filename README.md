@@ -1,5 +1,5 @@
 Hi, I'm Prashant Phuyal 👋
-AI Engineer | LLM · RAG · Generative AI |  AI Learner
+ Associate AI Engineer | LLM · RAG · Generative AI |  AI Learner
 
 I build production AI assistants — the kind that answer from your documents instead of
 making things up. Currently Associate AI Engineer at Dome Infosys (promoted from AI/ML
