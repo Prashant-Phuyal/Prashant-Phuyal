@@ -30,5 +30,4 @@ Data · PostgreSQL · MongoDB · SQL · Pandas · NumPy
 
 
 
-Reach me
-LinkedIn · prashantphuyal7@gmail.com · Kathmandu, Nepal
+
