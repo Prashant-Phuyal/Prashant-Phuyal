@@ -1,4 +1,4 @@
-Hi, I'm Prashant Phuyal 👋
+Hi, I'm Er.Prashant Phuyal 👋
  Associate AI Engineer | LLM · RAG · Generative AI |  AI Learner
 
 I build production AI assistants — the kind that answer from your documents instead of
