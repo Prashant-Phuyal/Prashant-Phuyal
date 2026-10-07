@@ -20,8 +20,6 @@ Tech I use
 AI/LLM · LangChain · LangGraph · Google Gemini · OpenAI · HuggingFace · Prompt Engineering
 
 Vector & Retrieval · Qdrant · FAISS · Embeddings · Semantic Search
-my portfolio:www.prashantphuyal.com.np
-
 
 Backend · Python · FastAPI · Pydantic · SQLAlchemy · Celery · Redis · GitHub Actions
 
@@ -29,7 +27,7 @@ ML/CV · TensorFlow · Keras · PyTorch · Scikit-learn · OpenCV · EasyOCR
 
 Data · PostgreSQL · MongoDB · SQL · Pandas · NumPy
 
-
+My portfolio:www.prashantphuyal.com.np
 
 
 
